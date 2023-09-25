@@ -182,6 +182,14 @@ a {
             flex-direction: column;
     text-align: center;
   }
+  .contact-info{
+    clear: both;
+    text-align: center;
+  }
+  .contact-input{
+    clear: both;
+    align-items: center;
+  }
   
  .boat {
    -webkit-animation: 10s boat-move infinite normal linear;
